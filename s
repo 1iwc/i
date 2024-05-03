@@ -10,13 +10,7 @@
             "key": "易看",
             "name": "📀易看",
             "type": 1,
-            "api": "https://api.yikanapi.com/api.php/provide/vod",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": 
-            [
-            ]
+            "api": "https://api.yikanapi.com/api.php/provide/vod"
         },
         {
             "key": "天堂",
