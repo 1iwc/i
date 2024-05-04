@@ -269,14 +269,14 @@
             "isActive": true,
             "resource": 3828
         },
-    {
-      "key": "s猫资源",
-      "name": "s猫资源",
-      "type": 1,
-      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
-      "searchable": 1,
-      "quickSearch": 0
-    },
+        {
+            "key": "s猫资源",
+            "name": "s猫资源",
+            "type": 1,
+            "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+            "searchable": 1,
+            "quickSearch": 0
+        },
     {
       "key": "s南国资源",
       "name": "s南国资源",
