@@ -99,7 +99,7 @@
     {
       "key": "老鸭",
       "name": "💿老鸭",
-      "type": 0,
+      "type": 1,
       "api": "https://api.apilyzy.com/api.php/provide/vod"
     },
     {
