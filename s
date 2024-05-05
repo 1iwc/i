@@ -10,12 +10,6 @@
       "key": "天堂",
       "name": "📀天堂",
       "api": "http://bttcj.com/inc/sapi.php",
-      "group": "18+",
-      "status": false,
-      "type": 0,
-      "search": 2,
-      "id": "116",
-      "playUrl": ""
     },
     {
       "key": "色猫",
@@ -617,13 +611,6 @@
       "name": "❤成人40",
       "type": 0,
       "api": "https://www.caiji07.com/home/cjapi/cfcf/mc10/vod/xml",
-      "searchable": 1
-    },
-    {
-      "key": "lbapi9.com",
-      "name": "❤成人41",
-      "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod",
       "searchable": 1
     },
     {
@@ -1242,15 +1229,6 @@
       "filterable": 0
     },
     {
-      "key": "❤乐播资源",
-      "name": "❤乐播资源",
-      "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
       "key": "❤博天堂",
       "name": "❤博天堂",
       "type": 0,
@@ -1405,16 +1383,6 @@
       "name": "❤523采集",
       "type": 1,
       "api": "https://523zyw.me/inc/apijson_vod.php",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "乐播",
-      "name": "️❤❤乐播采集",
-      "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
