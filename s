@@ -9,7 +9,7 @@
     {
       "key": "天堂",
       "name": "📀天堂",
-      "api": "http://bttcj.com/inc/sapi.php",
+      "api": "http://bttcj.com/inc/sapi.php"
     },
     {
       "key": "色猫",
