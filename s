@@ -3,7 +3,6 @@
     {
       "key": "易看",
       "name": "📀易看",
-      "type": 1,
       "api": "https://api.yikanapi.com/api.php/provide/vod"
     },
     {
@@ -14,50 +13,22 @@
     {
       "key": "色猫",
       "name": "📀色猫",
-      "api": "https://api.maozyapi.com/inc/api.php",
-      "group": "18+",
-      "status": true,
-      "search": 2,
-      "type": 0,
-      "id": "65",
-      "playUrl": ""
+      "api": "https://api.maozyapi.com/inc/api.php"
     },
     {
       "key": "乐播",
       "name": "📀乐播",
-      "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
-      "group": "18+",
-      "status": true,
-      "search": 2,
-      "type": 0,
-      "id": "66",
-      "playUrl": "",
-      "isActive": true,
-      "resource": 152336
+      "api": "https://lbapi9.com/api.php/provide/vod"
     },
     {
       "key": "番号",
       "name": "📀番号",
-      "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
-      "group": "18+",
-      "status": true,
-      "type": 0,
-      "search": 2,
-      "id": "70",
-      "playUrl": ""
+      "api": "http://fhapi9.com/api.php/provide/vod"
     },
     {
       "key": "数字",
       "name": "📀数字",
-      "api": "https://155api.com/api.php/provide/vod/?ac=list",
-      "playUrl": "https://www.155jx.com/?url=",
-      "group": "18+",
-      "search": 2,
-      "status": true,
-      "type": 1,
-      "id": "85",
-      "isActive": true,
-      "resource": 54030
+      "api": "https://155api.com/api.php/provide/vod"
     },
     {
       "key": "奶香",
