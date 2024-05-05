@@ -271,18 +271,6 @@
       "api": "http://www.caiji25.com/home/cjapi/p0as/mc10/vod"
     },
     {
-      "key": "caiji26.com",
-      "name": "❤成人22",
-      "type": 0,
-      "api": "http://caiji26.com/home/cjapi/p0g8/mc10/vod"
-    },
-    {
-      "key": "caiji24.com",
-      "name": "❤成人23",
-      "type": 0,
-      "api": "http://www.caiji24.com/home/cjapi/p0d2/mc10/vod"
-    },
-    {
       "key": "lbapiby.com",
       "name": "❤成人24",
       "type": 0,
@@ -295,130 +283,10 @@
       "api": "https://www.mgav1.cc/api.php/provide/vod"
     },
     {
-      "key": "mgzyz1.com",
-      "name": "❤成人28",
-      "type": 1,
-      "api": "https://mgzyz1.com/api.php/provide/vod"
-    },
-    {
-      "key": "caiji.huakuiapi.com",
-      "name": "❤成人31",
-      "type": 1,
-      "api": "https://caiji.huakuiapi.com/inc/apijson_vod.php"
-    },
-    {
-      "key": "siwazyw.cc",
-      "name": "❤成人32",
-      "type": 1,
-      "api": "https://siwazyw.cc/api.php/provide/vod"
-    },
-    {
-      "key": "dmmapi.com",
-      "name": "❤成人35",
-      "type": 0,
-      "api": "https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod"
-    },
-    {
-      "key": "xx55zyapi.com",
-      "name": "❤成人36",
-      "type": 0,
-      "api": "https://xx55zyapi.com/home/cjapi/ascf/mc10/vod"
-    },
-    {
-      "key": "caiji02.com",
-      "name": "❤成人38",
-      "type": 0,
-      "api": "https://www.caiji02.com/home/cjapi/cfas/mc10/vod"
-    },
-    {
-      "key": "caiji07.com",
-      "name": "❤成人40",
-      "type": 0,
-      "api": "https://www.caiji07.com/home/cjapi/cfcf/mc10/vod"
-    },
-    {
-      "key": "caiji03.com",
-      "name": "❤成人42",
-      "type": 0,
-      "api": "https://www.caiji03.com/home/cjapi/cfg8/mc10/vod"
-    },
-    {
-      "key": "caiji08.com",
-      "name": "❤成人43",
-      "type": 0,
-      "api": "https://www.caiji08.com/home/cjapi/cfkl/mc10/vod"
-    },
-    {
-      "key": "caiji10.com",
-      "name": "❤成人44",
-      "type": 0,
-      "api": "https://www.caiji10.com/home/cjapi/cfs6/mc10/vod"
-    },
-    {
-      "key": "52zyapi.com",
-      "name": "❤成人45",
-      "type": 0,
-      "api": "https://52zyapi.com/home/cjapi/asda/mc10/vod"
-    },
-    {
-      "key": "api.xiuseapi.com",
-      "name": "❤成人47",
-      "type": 1,
-      "api": "https://api.xiuseapi.com/api.php/provide/vod"
-    },
-    {
-      "key": "caiji01.com",
-      "name": "❤成人48",
-      "type": 0,
-      "api": "https://www.caiji01.com/home/cjapi/cfd2/mc10/vod"
-    },
-    {
-      "key": "caiji22.com",
-      "name": "❤成人49",
-      "type": 0,
-      "api": "https://www.caiji22.com/home/cjapi/klp0/mc10/vod"
-    },
-    {
-      "key": "caiji23.com",
-      "name": "❤成人50",
-      "type": 0,
-      "api": "https://www.caiji23.com/home/cjapi/kls6/mc10/vod"
-    },
-    {
       "key": "hghhh.com",
       "name": "❤成人52",
       "type": 1,
       "api": "https://hghhh.com/api.php/provide/vod"
-    },
-    {
-      "key": "sewozyapi.com",
-      "name": "❤成人53",
-      "type": 1,
-      "api": "https://sewozyapi.com/api.php/provide/vod"
-    },
-    {
-      "key": "caiji04.com",
-      "name": "❤成人55",
-      "type": 0,
-      "api": "https://www.caiji04.com/home/cjapi/cfc7/mc10/vod"
-    },
-    {
-      "key": "caiji09.com",
-      "name": "❤成人56",
-      "type": 0,
-      "api": "https://www.caiji09.com/home/cjapi/cfp0/mc10/vod"
-    },
-    {
-      "key": "caiji05.com",
-      "name": "❤成人57",
-      "type": 0,
-      "api": "https://www.caiji05.com/home/cjapi/cfda/mc10/vod"
-    },
-    {
-      "key": "jgczyapi.com",
-      "name": "❤成人58",
-      "type": 0,
-      "api": "https://jgczyapi.com/home/cjapi/kld2/mc10/vod"
     },
     {
       "key": "caiji.caomeiapi.com",
@@ -433,46 +301,10 @@
       "api": "https://caiji.523zyw.com/inc/apijson_vod.php"
     },
     {
-      "key": "❤丝袜资源",
-      "name": "❤丝袜资源",
-      "type": 1,
-      "api": "https://siwazyw.cc/api.php/provide/vod/at/jsod"
-    },
-    {
-      "key": "❤芒果资源",
-      "name": "❤芒果资源",
-      "type": 1,
-      "api": "https://mgzyz1.com/api.php/provide/vod"
-    },
-    {
-      "key": "❤丝袜资源",
-      "name": "❤丝袜资源",
-      "type": 1,
-      "api": "https://siwazyw.cc/api.php/provide/vod"
-    },
-    {
-      "key": "❤秀资源",
-      "name": "❤秀资源",
-      "type": 1,
-      "api": "https://api.xiuseapi.com/api.php/provide/vod"
-    },
-    {
       "key": "❤猫资源",
       "name": "❤猫资源",
       "type": 1,
       "api": "https://api.maozyapi.com/inc/apijson_vod.php"
-    },
-    {
-      "key": "❤花魁资源",
-      "name": "❤花魁资源",
-      "type": 1,
-      "api": "https://caiji.huakuiapi.com/inc/apijson_vod.php"
-    },
-    {
-      "key": "❤窝资源",
-      "name": "❤窝资源",
-      "type": 1,
-      "api": "https://sewozyapi.com/api.php/provide/vod"
     },
     {
       "key": "❤淫资源",
@@ -503,12 +335,6 @@
       "name": "❤屌丝资源",
       "type": 0,
       "api": "http://www.caiji24.com/home/cjapi/p0d2/mc10/vod"
-    },
-    {
-      "key": "❤咪资源",
-      "name": "❤咪资源",
-      "type": 0,
-      "api": "http://www.caiji25.com/home/cjapi/p0as/mc10/vod"
     },
     {
       "key": "❤鲍AV",
