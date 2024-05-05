@@ -397,8 +397,8 @@
       "api": "https://www.caiji05.com/home/cjapi/cfda/mc10/vod"
     },
     {
-      "key": "麻豆",
-      "name": "麻豆",
+      "key": "马豆",
+      "name": "马豆",
       "type": 0,
       "api": "https://www.caiji04.com/home/cjapi/cfc7/mc10/vod"
     },
@@ -481,8 +481,8 @@
       "api": "http://www.jializyzapi.com/api.php/provide/vod"
     },
     {
-      "key": "鲨鱼",
-      "name": "鲨鱼",
+      "key": "傻鱼",
+      "name": "傻鱼",
       "type": 1,
       "api": "https://shayuapi.com/api.php/provide/vod"
     },
