@@ -511,12 +511,6 @@
       "api": "https://siwazyw.cc/api.php/provide/vod"
     },
     {
-      "key": "色猫",
-      "name": "色猫",
-      "type": 1,
-      "api": "https://caiji.semaozy.net/inc/apijson_vod.phd"
-    },
-    {
       "key": "色窝",
       "name": "色窝",
       "type": 1,
