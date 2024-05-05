@@ -139,394 +139,393 @@
       "api": "https://kkzy.me/api.php/provide/vod"
     },
     {
-      "key": "s南国资源",
-      "name": "s南国资源",
+      "key": "南国",
+      "name": "南国",
       "type": 1,
       "api": "https://api.sexnguon.com/api.php/provide/vod"
     },
     {
-      "key": "douyin视频",
-      "name": "douyin视频",
+      "key": "三捌",
+      "name": "三捌",
       "type": 1,
       "api": "https://www.888dav.com/api.php/provide/vod"
     },
     {
-      "key": "m豆视频2",
-      "name": "m豆视频2",
+      "key": "毛豆",
+      "name": "毛豆",
       "type": 1,
       "api": "https://madouse.la/api.php/provide/vod"
     },
     {
-      "key": "d蛋视频",
-      "name": "d蛋视频",
+      "key": "蛋蛋",
+      "name": "蛋蛋",
       "type": 1,
       "api": "https://156.249.29.8/inc/apijson_vod.php"
     },
     {
-      "key": "环亚资源",
-      "name": "环亚资源",
+      "key": "环亚",
+      "name": "环亚",
       "type": 0,
       "api": "http://wmcj8.com/inc/sapi.php?ac=videolist"
     },
     {
-      "key": "ap4i156dlyE",
-      "name": "奶茶资源(已修复)",
+      "key": "奶茶",
+      "name": "奶茶",
       "type": 0,
       "api": "https://caiji.naichaapi.com/inc/api.php"
     },
     {
-      "key": "pgxdy",
-      "name": "🔞PGX电影",
+      "key": "苹果",
+      "name": "苹果",
       "type": 0,
       "api": "https://www.pgxdy.com/api/xml.php"
     },
     {
-      "key": "cjmygzy.com",
-      "name": "🔞采集.美阅阁",
+      "key": "美阅",
+      "name": "美阅",
       "type": 0,
       "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist"
     },
     {
-      "key": "51smt4.xyz",
-      "name": "❤成人01",
+      "key": "伍壹",
+      "name": "伍壹",
       "type": 1,
       "api": "http://51smt4.xyz/api.php/provide/vod"
     },
     {
-      "key": "jcspcj8.com",
-      "name": "❤成人02",
+      "key": "纠缠",
+      "name": "纠缠",
       "type": 0,
       "api": "http://jcspcj8.com/api?ac=videolist"
     },
     {
-      "key": "secj8.com",
-      "name": "❤成人07",
+      "key": "色彩",
+      "name": "色彩",
       "type": 0,
       "api": "http://secj8.com/inc/sapi.php?ac=videolist"
     },
     {
-      "key": "api.putaozy.net",
-      "name": "❤成人08",
+      "key": "葡萄",
+      "name": "葡萄",
       "type": 1,
       "api": "http://api.putaozy.net/inc/apijson_vod.php"
     },
     {
-      "key": "llzxcj.com",
-      "name": "❤成人09",
+      "key": "莉莉",
+      "name": "莉莉",
       "type": 0,
       "api": "http://llzxcj.com/inc/sck.php?ac=videolist"
     },
     {
-      "key": "f2dcj6.com",
-      "name": "❤成人11",
+      "key": "二代",
+      "name": "二代",
       "type": 0,
       "api": "http://f2dcj6.com/sapi?ac=videolist"
     },
     {
-      "key": "99zy.pw",
-      "name": "❤成人12",
+      "key": "九妖",
+      "name": "九妖",
       "type": 1,
       "api": "http://99zy.pw/api.php/provide/vod"
     },
     {
-      "key": "ggmmzy.com",
-      "name": "❤成人13",
+      "key": "哥们",
+      "name": "哥们",
       "type": 0,
       "api": "http://www.ggmmzy.com:9999/inc/xml"
     },
     {
-      "key": "feifei67.com",
-      "name": "❤成人15",
+      "key": "菲菲",
+      "name": "菲菲",
       "type": 1,
       "api": "http://www.feifei67.com/api.php/provide/vod"
     },
     {
-      "key": "sdszyapi.com",
-      "name": "❤成人16",
+      "key": "色屌",
+      "name": "色屌",
       "type": 0,
       "api": "http://sdszyapi.com/home/cjapi/asbb/mc10/vod"
     },
     {
-      "key": "xjjzyapi.com",
-      "name": "❤成人18",
+      "key": "姐姐",
+      "name": "姐姐",
       "type": 0,
       "api": "http://xjjzyapi.com/home/cjapi/askl/mc10/vod"
     },
     {
-      "key": "shabizy.com",
-      "name": "❤成人19",
+      "key": "莎比",
+      "name": "莎比",
       "type": 0,
       "api": "http://www.shabizy.com:777/inc/sea"
     },
     {
-      "key": "caiji21.com",
-      "name": "❤成人20",
+      "key": "啪啪",
+      "name": "啪啪",
       "type": 0,
       "api": "http://www.caiji21.com/home/cjapi/klkl/mc10/vod"
     },
     {
-      "key": "caiji25.com",
-      "name": "❤成人21",
+      "key": "咪咪",
+      "name": "咪咪",
       "type": 0,
       "api": "http://www.caiji25.com/home/cjapi/p0as/mc10/vod"
     },
     {
-      "key": "lbapiby.com",
-      "name": "❤成人24",
+      "key": "兰博",
+      "name": "兰博",
       "type": 0,
       "api": "http://lbapiby.com/api.php/provide/vod"
     },
     {
-      "key": "mgav1.cc",
-      "name": "❤成人27",
+      "key": "玫瑰",
+      "name": "玫瑰",
       "type": 0,
       "api": "https://www.mgav1.cc/api.php/provide/vod"
     },
     {
-      "key": "hghhh.com",
-      "name": "❤成人52",
+      "key": "皇冠",
+      "name": "皇冠",
       "type": 1,
       "api": "https://hghhh.com/api.php/provide/vod"
     },
     {
-      "key": "caiji.caomeiapi.com",
-      "name": "❤成人59",
+      "key": "草莓",
+      "name": "草莓",
       "type": 1,
       "api": "https://caiji.caomeiapi.com/inc/apijson_vod.php"
     },
     {
-      "key": "caiji.523zyw.com",
-      "name": "❤成人60",
+      "key": "贰叁",
+      "name": "贰叁",
       "type": 1,
       "api": "https://caiji.523zyw.com/inc/apijson_vod.php"
     },
     {
-      "key": "❤猫资源",
-      "name": "❤猫资源",
+      "key": "猫猫",
+      "name": "猫猫",
       "type": 1,
       "api": "https://api.maozyapi.com/inc/apijson_vod.php"
     },
     {
-      "key": "❤淫资源",
-      "name": "❤淫资源",
+      "key": "淫窝",
+      "name": "淫窝",
       "type": 1,
       "api": "https://api.yinwoapi.com/api.php/provide/vod"
     },
     {
-      "key": "❤52AVAV",
-      "name": "❤52AVAV",
+      "key": "伍贰",
+      "name": "伍贰",
       "type": 0,
       "api": "https://52zyapi.com/home/cjapi/asda/mc10/vod"
     },
     {
-      "key": "❤AV集中",
-      "name": "❤AV集中",
+      "key": "集中",
+      "name": "集中",
       "type": 0,
       "api": "https://www.caiji22.com/home/cjapi/klp0/mc10/vod"
     },
     {
-      "key": "❤夜夜资源",
-      "name": "❤夜夜资源",
+      "key": "夜夜",
+      "name": "夜夜",
       "type": 0,
       "api": "https://www.caiji23.com/home/cjapi/kls6/mc10/vod"
     },
     {
-      "key": "❤屌丝资源",
-      "name": "❤屌丝资源",
+      "key": "屌丝",
+      "name": "屌丝",
       "type": 0,
       "api": "http://www.caiji24.com/home/cjapi/p0d2/mc10/vod"
     },
     {
-      "key": "❤鲍AV",
-      "name": "❤鲍AV",
+      "key": "鲍鱼",
+      "name": "鲍鱼",
       "type": 0,
       "api": "http://caiji26.com/home/cjapi/p0g8/mc10/vod"
     },
     {
-      "key": "❤工厂资源",
-      "name": "❤工厂资源",
+      "key": "工厂",
+      "name": "工厂",
       "type": 0,
       "api": "https://jgczyapi.com/home/cjapi/kld2/mc10/vod"
     },
     {
-      "key": "❤点点娱乐",
-      "name": "❤点点娱乐",
+      "key": "点点",
+      "name": "点点",
       "type": 0,
       "api": "https://xx55zyapi.com/home/cjapi/ascf/mc10/vod"
     },
     {
-      "key": "❤大MM资源",
-      "name": "❤大MM资源",
+      "key": "妹妹",
+      "name": "妹妹",
       "type": 0,
       "api": "https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod"
     },
     {
-      "key": "❤瓜TV资源",
-      "name": "❤瓜TV资源",
+      "key": "西瓜",
+      "name": "西瓜",
       "type": 0,
       "api": "https://www.caiji10.com/home/cjapi/cfs6/mc10/vod"
     },
     {
-      "key": "❤快播盒子资源",
-      "name": "❤快播盒子资源",
+      "key": "快播",
+      "name": "快播",
       "type": 0,
       "api": "https://www.caiji09.com/home/cjapi/cfp0/mc10/vod"
     },
     {
-      "key": "❤大香蕉资源",
-      "name": "❤大香蕉资源",
+      "key": "香蕉",
+      "name": "香蕉",
       "type": 0,
       "api": "https://www.caiji08.com/home/cjapi/cfkl/mc10/vod"
     },
     {
-      "key": "❤日AV在线",
-      "name": "❤日AV在线",
+      "key": "小日",
+      "name": "小日",
       "type": 0,
       "api": "https://www.caiji07.com/home/cjapi/cfcf/mc10/vod"
     },
     {
-      "key": "❤久热在线",
-      "name": "❤久热在线",
+      "key": "久热",
+      "name": "久热",
       "type": 0,
       "api": "https://www.caiji06.com/home/cjapi/cfbb/mc10/vod"
     },
     {
-      "key": "❤青草视频",
-      "name": "❤青草视频",
+      "key": "青草",
+      "name": "青草",
       "type": 0,
       "api": "https://www.caiji05.com/home/cjapi/cfda/mc10/vod"
     },
     {
-      "key": "❤麻豆视频",
-      "name": "❤麻豆视频",
+      "key": "麻豆",
+      "name": "麻豆",
       "type": 0,
       "api": "https://www.caiji04.com/home/cjapi/cfc7/mc10/vod"
     },
     {
-      "key": "❤一本道资源",
-      "name": "❤一本道资源",
+      "key": "本道",
+      "name": "本道",
       "type": 0,
       "api": "https://www.caiji03.com/home/cjapi/cfg8/mc10/vod"
     },
     {
-      "key": "❤草榴视频",
-      "name": "❤草榴视频",
+      "key": "草榴",
+      "name": "草榴",
       "type": 0,
       "api": "https://www.caiji02.com/home/cjapi/cfas/mc10/vod"
     },
     {
-      "key": "❤亚洲成人在线",
-      "name": "❤亚洲成人在线",
+      "key": "亚洲",
+      "name": "亚洲",
       "type": 0,
       "api": "https://www.caiji01.com/home/cjapi/cfd2/mc10/vod"
     },
     {
-      "key": "❤天噜啦资源",
-      "name": "❤天噜啦资源",
+      "key": "噜啦",
+      "name": "噜啦",
       "type": 0,
       "api": "http://www.987caiji.com/api/max.php"
     },
     {
-      "key": "❤酷豆资源",
-      "name": "❤酷豆资源",
+      "key": "酷豆",
+      "name": "酷豆",
       "type": 1,
       "api": "https://kudouzy.com/api.php/provide/vod"
     },
     {
-      "key": "❤酷豆2",
-      "name": "❤酷豆2",
+      "key": "口袋",
+      "name": "口袋",
       "type": 1,
       "api": "https://api.kdapi.info/api.php/provide/vod"
     },
     {
-      "key": "❤酷伦",
-      "name": "❤酷伦",
+      "key": "酷点",
+      "name": "酷点",
       "type": 1,
       "api": "https://api.kudian70.com/api.php/provide/vod"
     },
     {
-      "key": "❤影库资源",
-      "name": "❤影库资源",
+      "key": "影库",
+      "name": "影库",
       "type": 1,
       "api": "https://api.ykapi.net/api.php/provide/vod"
     },
     {
-      "key": "❤爱播资源",
-      "name": "❤爱播资源",
+      "key": "爱播",
+      "name": "爱播",
       "type": 1,
       "api": "https://cj.apiabzy.com/api.php/provide/vod"
     },
     {
-      "key": "❤花椒资源",
-      "name": "❤花椒资源",
+      "key": "花椒",
+      "name": "花椒",
       "type": 1,
       "api": "https://apihjzy.com/api.php/provide/vod"
     },
     {
-      "key": "❤AVZY6888资源",
-      "name": "❤AVZY6888资源",
+      "key": "柒捌",
+      "name": "柒捌",
       "type": 1,
       "api": "http://m.7777688.com/inc/apijson.php"
     },
     {
-      "key": "❤玖玖资源",
-      "name": "❤玖玖资源",
+      "key": "玖玖",
+      "name": "玖玖",
       "type": 0,
       "api": "http://99zywcj.com/inc/sapi.php?ac=videolist"
     },
     {
-      "key": "❤佳丽资源",
-      "name": "❤佳丽资源",
+      "key": "佳丽",
+      "name": "佳丽",
       "type": 1,
       "api": "http://www.jializyzapi.com/api.php/provide/vod"
     },
     {
-      "key": "❤鲨鱼资源",
-      "name": "❤鲨鱼资源",
+      "key": "鲨鱼",
+      "name": "鲨鱼",
       "type": 1,
       "api": "https://shayuapi.com/api.php/provide/vod"
     },
     {
-      "key": "芒果专场",
-      "name": "芒果采集",
+      "key": "芒果",
+      "name": "芒果",
       "type": 1,
       "api": "https://mgzyz1.com/api.php/provide/vod"
     },
     {
-      "key": "523专场",
-      "name": "❤523采集",
+      "key": "专场",
+      "name": "专场",
       "type": 1,
       "api": "https://523zyw.me/inc/apijson_vod.php"
     },
     {
       "key": "秀色",
-      "name": "❤秀采集（探探收购）",
+      "name": "秀色",
       "type": 1,
       "api": "https://api.xiuseapi.com/api.php/provide/vod"
     },
     {
       "key": "丝袜",
-      "name": "❤丝袜采集",
+      "name": "丝袜",
       "type": 1,
       "api": "https://siwazyw.cc/api.php/provide/vod"
     },
     {
-      "key": "猫采集",
-      "name": "❤猫采集",
+      "key": "色猫",
+      "name": "色猫",
       "type": 1,
       "api": "https://caiji.semaozy.net/inc/apijson_vod.phd"
     },
     {
-      "key": "窝资源",
-      "name": "❤窝资源",
+      "key": "色窝",
+      "name": "色窝",
       "type": 1,
       "api": "https://sewozyapi.com/api.php/provide/vod"
     },
     {
-      "key": "花蜜",
-      "name": "❤花魅采集",
+      "key": "花魅",
+      "name": "花魅",
       "type": 1,
       "api": "https://caiji.huakuiapi.com/inc/apijson_vod.php"
     }
   ]
-}
