@@ -36,6 +36,30 @@
       "api":"csp_黄人"
     },
     {
+      "key":"黄壹jar",
+      "name":"黄壹",
+      "type":3,
+      "api":"csp_黄人1"
+    },
+    {
+      "key":"黄贰jar",
+      "name":"黄贰",
+      "type":3,
+      "api":"csp_黄人2"
+    },
+    {
+      "key":"黄叁jar",
+      "name":"黄叁",
+      "type":3,
+      "api":"csp_黄人3"
+    },
+    {
+      "key":"黄漫jar",
+      "name":"黄漫",
+      "type":3,
+      "api":"csp_黄漫"
+    },
+    {
       "key":"易看",
       "name":"易看",
       "type": 1,
