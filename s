@@ -48,6 +48,12 @@
       "api":"csp_黄人2"
     },
     {
+      "key":"黄叁jar",
+      "name":"黄叁",
+      "type":3,
+      "api":"csp_黄人3"
+    },
+    {
       "key":"黄漫jar",
       "name":"黄漫",
       "type":3,
