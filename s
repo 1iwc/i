@@ -3,6 +3,22 @@
 //微博@学英语i
 
 {
+
+//云盘：tiansyun.cn
+
+//工具：www.lige.fit
+
+//壁纸
+
+    "wallpaper":"./lib/pic/a4",
+
+//程序
+
+    "spider":"./lib/jar/z.js",
+
+//点播
+
+{
   "sites":[
     {
       "key":"易看",
