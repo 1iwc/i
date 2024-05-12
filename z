@@ -10,11 +10,11 @@
 
 //壁纸
 
-    "wallpaper":"./res/pic/a4",
+    "wallpaper":"./lib/pic/a4",
 
 //程序
 
-    "spider":"./res/jar/z.js",
+    "spider":"./lib/jar/z.js",
 
 //点播
 
@@ -955,17 +955,17 @@
         {
             "name":"壹",
             "type":0,
-            "url":"./res/live/1.js"
+            "url":"./lib/live/1.js"
         },
         {
             "name":"贰",
             "type":0,
-            "url":"./res/live/2.js"
+            "url":"./lib/live/2.js"
         },
         {
             "name":"叁",
             "type":0,
-            "url":"./res/live/3.js"
+            "url":"./lib/live/3.js"
         },
         {
             "name":"肆",
