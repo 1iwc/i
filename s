@@ -22,6 +22,13 @@
   "sites":
   [
     {
+      "key":"测试jar",
+      "name":"测试",
+      "type":3,
+      "api":"csp_共用",
+      "ext":"./js/jar/测试.js"
+    },
+    {
       "key":"黄人jar",
       "name":"黄人",
       "type":3,
