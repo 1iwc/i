@@ -14,7 +14,7 @@
 
 //程序
 
-    "spider":"./lib/jar/z.js",
+    "spider":"https://raw.githubusercontent.com/iiiwc/i/main/lib/jar/z.js",
 
 //点播
 
