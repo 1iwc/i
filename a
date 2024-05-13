@@ -6,15 +6,15 @@
 
         {
             "sourceName":"关注微博",
-            "sourceUrl":"https://gitee.com/iiwc/ii/raw/i/iii"
+            "sourceUrl":"https://raw.githubusercontent.com/iiiwc/i/main/iii"
         },
         {
             "sourceName":"获取更多资源",
-            "sourceUrl":"https://gitee.com/iiwc/ii/raw/i/ii"
+            "sourceUrl":"https://raw.githubusercontent.com/iiiwc/i/main/ii"
         },
         {
             "sourceName":"微博@学外语i",
-            "sourceUrl":"https://gitee.com/iiwc/ii/raw/i/i"
+            "sourceUrl":"https://raw.githubusercontent.com/iiiwc/i/main/i"
         }
 
     ]
