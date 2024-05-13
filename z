@@ -514,7 +514,7 @@
             "key":"忆梦",
             "name":"💿忆梦资源",
             "type":1,
-            "api":"http://anltv.cn/api.php/provide/vod",
+            "api":"https://www.gnpt.net/api.php/provide/vod",
             "categories":
             [
                 "电影","连续剧","综艺","哔哩哔哩"
