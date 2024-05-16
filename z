@@ -194,238 +194,238 @@
             "key":"海兔jar",
             "name":"📀 海 兔 📀",
             "type":3,
-            "api":"csp_共用",
+            "api":"csp_通用",
             "ext":"./js/jar/海兔.js"
         },
         {
             "key":"熊猫jar",
             "name":"📀 熊 猫 📀",
             "type":3,
-            "api":"csp_共用",
+            "api":"csp_通用",
             "ext":"./js/jar/熊猫.js"
         },
         {
             "key":"维斯jar",
             "name":"📀 维 斯 📀",
             "type":3,
-            "api":"csp_共用",
+            "api":"csp_通用",
             "ext":"./js/jar/维斯.js"
         },
         {
             "key":"葡萄jar",
             "name":"📀 葡 萄 📀",
             "type":3,
-            "api":"csp_共用",
+            "api":"csp_通用",
             "ext":"./js/jar/葡萄.js"
         },
         {
             "key":"榜一jar",
             "name":"📀 榜 一 📀",
             "type":3,
-            "api":"csp_共用",
+            "api":"csp_通用",
             "ext":"./js/jar/榜一.js"
         },
         {
             "key":"片库jar",
             "name":"📀 片 库 📀",
             "type":3,
-            "api":"csp_共用",
+            "api":"csp_通用",
             "ext":"./js/jar/片库.js"
         },
         {
             "key":"看戏jar",
             "name":"📀 看 戏 📀",
             "type":3,
-            "api":"csp_共用",
+            "api":"csp_通用",
             "ext":"./js/jar/看戏.js"
         },
         {
             "key":"奈飞jar",
             "name":"📀 奈 飞 📀",
             "type":3,
-            "api":"csp_共用",
+            "api":"csp_通用",
             "ext":"./js/jar/奈飞.js"
         },
         {
             "key":"奈飛jar",
             "name":"📀 奈 飛 📀",
             "type":3,
-            "api":"csp_共用",
+            "api":"csp_通用",
             "ext":"./js/jar/奈飛.js"
         },
         {
             "key":"视觉jar",
             "name":"📀 视 觉 📀",
             "type":3,
-            "api":"csp_共用",
+            "api":"csp_通用",
             "ext":"./js/jar/视觉.js"
         },
         {
             "key":"得利jar",
             "name":"📀 得 利 📀",
             "type":3,
-            "api":"csp_共用",
+            "api":"csp_通用",
             "ext":"./js/jar/得利.js"
         },
         {
             "key":"爱看jar",
             "name":"📀 爱 看 📀",
             "type":3,
-            "api":"csp_共用",
+            "api":"csp_通用",
             "ext":"./js/jar/爱看.js"
         },
         {
             "key":"看看jar",
             "name":"📀 看 看 📀",
             "type":3,
-            "api":"csp_共用",
+            "api":"csp_通用",
             "ext":"./js/jar/看看.js"
         },
         {
             "key":"青苹jar",
             "name":"📀 青 苹 📀",
             "type":3,
-            "api":"csp_共用",
+            "api":"csp_通用",
             "ext":"./js/jar/青苹.js"
         },
         {
             "key":"益达jar",
             "name":"📀 益 达 📀",
             "type":3,
-            "api":"csp_共用",
+            "api":"csp_通用",
             "ext":"./js/jar/益达.js"
         },
         {
             "key":"时代jar",
             "name":"📀 时 代 📀",
             "type":3,
-            "api":"csp_共用",
+            "api":"csp_通用",
             "ext":"./js/jar/时代.js"
         },
         {
             "key":"速映jar",
             "name":"📀 速 映 📀",
             "type":3,
-            "api":"csp_共用",
+            "api":"csp_通用",
             "ext":"./js/jar/速映.js"
         },
         {
             "key":"苹果jar",
             "name":"📀 苹 果 📀",
             "type":3,
-            "api":"csp_共用",
+            "api":"csp_通用",
             "ext":"./js/jar/苹果.js"
         },
         {
             "key":"维利jar",
             "name":"📀 维 利 📀",
             "type":3,
-            "api":"csp_共用",
+            "api":"csp_通用",
             "ext":"./js/jar/维利.js"
         },
         {
             "key":"永远jar",
             "name":"📀 永 远 📀",
             "type":3,
-            "api":"csp_共用",
+            "api":"csp_通用",
             "ext":"./js/jar/永远.js"
         },
         {
             "key":"叁肆jar",
             "name":"📀 叁 肆 📀",
             "type":3,
-            "api":"csp_共用",
+            "api":"csp_通用",
             "ext":"./js/jar/叁肆.js"
         },
         {
             "key":"柒月jar",
             "name":"📀 柒 月 📀",
             "type":3,
-            "api":"csp_共用",
+            "api":"csp_通用",
             "ext":"./js/jar/柒月.js"
         },
         {
             "key":"超前jar",
             "name":"📀 超 前 📀",
             "type":3,
-            "api":"csp_共用",
+            "api":"csp_通用",
             "ext":"./js/jar/超前.js"
         },
         {
             "key":"胖虎jar",
             "name":"📀 胖 虎 📀",
             "type":3,
-            "api":"csp_共用",
+            "api":"csp_通用",
             "ext":"./js/jar/胖虎.js"
         },
         {
             "key":"蛋蛋jar",
             "name":"📀 蛋 蛋 📀",
             "type":3,
-            "api":"csp_共用",
+            "api":"csp_通用",
             "ext":"./js/jar/蛋蛋.js"
         },
         {
             "key":"外剧jar",
             "name":"📀 外 剧 📀",
             "type":3,
-            "api":"csp_共用",
+            "api":"csp_通用",
             "ext":"./js/jar/外剧.js"
         },
         {
             "key":"剧圈jar",
             "name":"📀 剧 圈 📀",
             "type":3,
-            "api":"csp_共用",
+            "api":"csp_通用",
             "ext":"./js/jar/剧圈.js"
         },
         {
             "key":"森林jar",
             "name":"📀 森 林 📀",
             "type":3,
-            "api":"csp_共用",
+            "api":"csp_通用",
             "ext":"./js/jar/森林.js"
         },
         {
             "key":"师兄jar",
             "name":"📀 师 兄 📀",
             "type":3,
-            "api":"csp_共用",
+            "api":"csp_通用",
             "ext":"./js/jar/师兄.js"
         },
         {
             "key":"桃子jar",
             "name":"📀 桃 子 📀",
             "type":3,
-            "api":"csp_共用",
+            "api":"csp_通用",
             "ext":"./js/jar/桃子.js"
         },
         {
             "key":"剧集jar",
             "name":"📀 剧 集 📀",
             "type":3,
-            "api":"csp_共用",
+            "api":"csp_通用",
             "ext":"./js/jar/剧集.js"
         },
         {
             "key":"剧网jar",
             "name":"📀 剧 网 📀",
             "type":3,
-            "api":"csp_共用",
+            "api":"csp_通用",
             "ext":"./js/jar/剧网.js"
         },
         {
             "key":"大帅jar",
             "name":"📀 大 帅 📀",
             "type":3,
-            "api":"csp_共用",
+            "api":"csp_通用",
             "ext":"./js/jar/大帅.js"
         },
         {
             "key":"来看jar",
             "name":"📀 来 看 📀",
             "type":3,
-            "api":"csp_共用",
+            "api":"csp_通用",
             "ext":"./js/jar/来看.js"
         },
         {
