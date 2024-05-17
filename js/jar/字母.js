@@ -1,5 +1,5 @@
 {
-    //
+    //https://zimu.app/
     "搜索":"{wd}",
     "搜索url":"https://zimu.app/vodsearch.html?wd={wd}&submit=",
     "影片类型":"🇨🇳微博@学英语i",
