@@ -26,7 +26,7 @@
       "key":"字母jar",
       "name":"字母影视",
       "type":3,
-      "api":"csp_共用",
+      "api":"csp_通用",
       "ext":"./js/jar/字母.js"
     },
     {
