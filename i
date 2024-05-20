@@ -38,7 +38,7 @@
             "name": "心魔"
         },
         {
-            "url": "https://raw.githubusercontent.com/iiiwc/i/main/s",
+            "url": "https://raw.githubusercontent.com/1iwc/i/main/s",
             "name": "Lunli"
         }
 
