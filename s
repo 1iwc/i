@@ -30,36 +30,6 @@
       "ext":"./js/jar/字母.js"
     },
     {
-      "key":"黄人jar",
-      "name":"黄人影视",
-      "type":3,
-      "api":"csp_黄人"
-    },
-    {
-      "key":"黄壹jar",
-      "name":"黄壹影视",
-      "type":3,
-      "api":"csp_黄人1"
-    },
-    {
-      "key":"黄贰jar",
-      "name":"黄贰影视",
-      "type":3,
-      "api":"csp_黄人2"
-    },
-    {
-      "key":"黄叁jar",
-      "name":"黄叁影视",
-      "type":3,
-      "api":"csp_黄人3"
-    },
-    {
-      "key":"黄漫jar",
-      "name":"黄漫影视",
-      "type":3,
-      "api":"csp_黄漫"
-    },
-    {
       "key":"易看",
       "name":"易看资源",
       "type": 1,
