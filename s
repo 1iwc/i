@@ -14,7 +14,7 @@
 
 //程序
 
-    "spider":"./lib/jar/s.js",
+    "spider":"./lib/jar/z.js",
 
 //点播
 
