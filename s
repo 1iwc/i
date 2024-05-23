@@ -432,12 +432,6 @@
       "api":"https://www.caiji04.com/home/cjapi/cfc7/mc10/vod"
     },
     {
-      "key":"本道",
-      "name":"本道",
-      "type": 0,
-      "api":"https://www.caiji03.com/home/cjapi/cfg8/mc10/vod"
-    },
-    {
       "key":"草榴",
       "name":"草榴资源",
       "type": 0,
