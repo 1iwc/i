@@ -1,5 +1,5 @@
 {
-    //https://zimufl.cc/
+    //https://jinman.tv/
     "搜索":"{wd}",
     "搜索url":"https://zimufl.cc/vodsearch.html?wd={wd}",
     "影片状态":"来自🇨🇳微博@学英语i",
