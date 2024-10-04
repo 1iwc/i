@@ -1,0 +1,22 @@
+{
+
+    "storeHouse":
+
+    [
+        
+        {
+            "sourceName":"关注微博",
+            "sourceUrl":"https://gitee.com/iiwc/ii/raw/i/iii"
+        },
+        {
+            "sourceName":"获取更多资源",
+            "sourceUrl":"https://gitee.com/iiwc/ii/raw/i/ii"
+        },
+        {
+            "sourceName":"微博@学外语i",
+            "sourceUrl":"https://gitee.com/iiwc/ii/raw/i/i"
+        }
+
+    ]
+
+}
