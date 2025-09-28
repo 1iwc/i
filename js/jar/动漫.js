@@ -1,0 +1,10 @@
+{
+    //https://www.dmzj2.cc/
+    "搜索":"{wd}",
+    "搜索url":"https://www.dmzj.cc/search/?wd={wd}",
+    "影片状态":"来自🇨🇳微博@学英语i",
+    "影片类型":"🇨🇳微博@学英语i",
+    "分类":"电影$dmdy#国产$gcdm#日韩$rhdm#港台$gtdm#欧美$omdm",
+    "分类url":"https://www.dmzj.cc/vodlist/{cateId}______{catePg}.html"
+    //分类{cateId}，地区{area}，排序{by}，剧情{class}，语言{lang}，页面{catePg}，年份{year}
+}
