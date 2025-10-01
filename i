@@ -6,7 +6,7 @@
     [
         
         {
-            "url": "https://gitee.com/iiwc/ii/raw/i/z",
+            "url": "https://raw.github.com/1iwc/i/i/z",
             "name": "学外语i"
         },
         {
